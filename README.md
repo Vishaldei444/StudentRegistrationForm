@@ -34,3 +34,6 @@ Course: Diploma in Information Technology
 Hobbies: Reading, Sports
 Date of Birth: 15-08-2007
 ```
+## Screenshot
+
+![Student Registration Form](./Screenshot%202026-11-07%20171051.png)
